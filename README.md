@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my personal projects i.e. crimsonUI, 3AM TALES, SPOTLIGHT, etc
+- 🔭 I’m currently working on my personal projects i.e. crimsonUI, 3AM TALES, Spotlight, etc
 - 🌱 I’m currently learning MERN Full Stack Web Development
 - 👯 I’m looking to collaborate on Web Dev Projects
 - 💬 Ask me about JavaScript, ReactJS, CSS or Responsive designs
