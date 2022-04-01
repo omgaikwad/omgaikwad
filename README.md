@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning MERN Full Stack Web Development
 - 👯 I’m looking to collaborate on Web Dev Projects
 - 💬 Ask me about JavaScript, ReactJS, CSS or Responsive designs
-- 📫 How to reach me: [twitter.com/OmGaikwad_](https://twitter.com/OmGaikwad_) || [LinkedIn](https://www.linkedin.com/in/omgaikwad1/)
+- 📫 How to reach me: [Twitter](https://twitter.com/OmGaikwad_) 
 - ⚡ Fun fact: I play guitar, ukulele, read fiction and lift weights
